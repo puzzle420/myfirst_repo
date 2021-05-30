@@ -1,0 +1,3 @@
+By default, GitHub uses the term "master" for the primary version of a source code repository.
+any new repositories you create will use main as the default branch, instead of master," 
+the company said. Existing repositories that have "master" set as the default branch will be left as is
