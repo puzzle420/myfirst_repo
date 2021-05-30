@@ -1,0 +1,4 @@
+Good morning 
+git init
+git clone 
+git config
